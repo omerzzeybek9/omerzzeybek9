@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ömer</h1>
-<h3 align="center">I am a 3rd year student in Artificial Intelligence and Data Science at Istanbul Technical University. I have advanced knowledge of Python programming language and I am also experienced in Data Analysis, Data Visualization, and Machine Learning.
+<h3 align="center">I am a 4th year student in Artificial Intelligence and Data Engineering at Istanbul Technical University. I have advanced knowledge of Python programming language and I am also experienced in Data Analysis, Data Visualization, and Machine Learning.
 
 My interest in the field of Data Science allows me to continuously improve myself in this field. In my projects, I work on large datasets and create effective solutions in data processing, cleaning, and modeling processes. My goal is to develop innovative and effective solutions using data science and artificial intelligence technologies.</h3>
 
